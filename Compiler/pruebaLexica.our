@@ -1,0 +1,18 @@
+PROGRAM Raiz (INPUT, OUTPUT);
+
+
+VAR 
+  Valor, Resultado: REAL;
+BEGIN
+  WriteLn ();
+  Write (); ReadLn (Valor);
+
+  Resultado := sqrt (abs (Valor));
+  Write (Valor);
+  IF Valor < 0 THEN
+    WriteLn (Resultado)
+  ELSE
+    WriteLn (Resultado);
+  Write ();
+END.
+_

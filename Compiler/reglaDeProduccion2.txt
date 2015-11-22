@@ -1,0 +1,5 @@
+S var L : T ;
+L L , id
+L id
+T integer
+T real

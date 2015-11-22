@@ -1,0 +1,35 @@
+; finDeSentencia
+
+, separaVariables
+
+: seUSaEnDeclaraciónDeVariables
+
+( encierraFunciones
+) seUSaEnComentarios
+
+:= asignaUnValorAUnaVariable
+
+= igualLógico
+
+* multiplicación
+
+[ paraArreglos
+] paraArreglos
+
+/**/ comentarios
+
++ suma
+> mayorQue
+
+<> diferenteQue
+
+- sustracción
+/ división
+
+< es menor que
+
+>= mayorIgualQue
+
+<= menorIgualQue
+
+. punto

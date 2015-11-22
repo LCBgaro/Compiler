@@ -1,0 +1,5 @@
+S A B end
+A tipo
+A id A
+B begin C
+C codigo
